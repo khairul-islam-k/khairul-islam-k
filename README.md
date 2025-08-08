@@ -35,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
+<br />
 
 ## 🌐 Connect with Me
 
@@ -48,7 +49,7 @@
   <a href="https://twitter.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
   </a>
-  <a href="mailto:your.khairul.web1@gmail.com" target="_blank">
+  <a href="mailto:khairul.web1@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="40" height="40"/>
   </a>
 </p>

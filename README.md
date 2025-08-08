@@ -58,7 +58,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=khairul-islam-k&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?username=khairul-islam-k&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khairul-islam-k&show_icons=true&theme=tokyonight)
 

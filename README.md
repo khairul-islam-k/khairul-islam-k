@@ -39,16 +39,16 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/YourUsername" target="_blank">
+  <a href="https://github.com/khairul-islam-k" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/YourTwitterUsername" target="_blank">
+  <a href="https://twitter.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:your.khairul.web1@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="40" height="40"/>
   </a>
 </p>

@@ -54,13 +54,15 @@
   </a>
 </p>
 
+# Hi, I'm Khairul Islam 👋
+
 ## 📊 GitHub Stats
 
-![Khairul Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairul-islam-k&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khairul-islam-k&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khairul-islam-k&layout=compact&theme=tokyonight&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khairul-islam-k&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=khairul-islam-k&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=khairul-islam-k&theme=dark)
 
 **Languages I Work With:**  
 - English (code comments, documentation, communication)  

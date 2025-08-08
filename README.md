@@ -54,3 +54,15 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&langs_count=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=tokyonight&hide_border=true)
+
+**Languages I Work With:**  
+- English (code comments, documentation, communication)  
+- বাংলা (Bangla) for some project content and user interfaces
+

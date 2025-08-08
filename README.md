@@ -56,7 +56,7 @@
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?khairul-islam-k=khairul-islam-k&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&langs_count=10)
 

@@ -58,9 +58,9 @@
 
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?khairul-islam-k=khairul-islam-k&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?khairul-islam-k=YourUsername&layout=compact&theme=tokyonight&langs_count=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khairul-islam-k&theme=tokyonight&hide_border=true)
 
 **Languages I Work With:**  
 - English (code comments, documentation, communication)  

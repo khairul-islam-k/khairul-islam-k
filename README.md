@@ -63,6 +63,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khairul-islam-k&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=khairul-islam-k&theme=dark)
+<img src="https://streak-stats.demolab.com/?user=khairul-islam-k&theme=dark" />
 
 **Languages I Work With:**  
 - English (code comments, documentation, communication)  

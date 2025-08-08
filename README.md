@@ -43,7 +43,7 @@
   <a href="https://github.com/khairul-islam-k" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank">
+  <a href="https://www.linkedin.com/in/khairul-islam-170543379" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="https://twitter.com" target="_blank">

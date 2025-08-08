@@ -6,5 +6,6 @@
 <br />
 <h2>Current Activities:</h2>
 <ul style='dics'>
-  <li>kajfdj</li>
+  <li>I am exploring Next.js.</li>
+  <li>I’m working on a tourism website</li>
 </ul>
